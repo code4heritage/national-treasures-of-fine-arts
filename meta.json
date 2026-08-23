@@ -16,16 +16,16 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-08-23",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年8月23日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-08-24",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年8月24日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
     "version": "0.1.0"
   },
   "counts": {
-    "records": 965,
-    "files": 42,
+    "records": 968,
+    "files": 43,
     "with_coordinates": 391
   },
   "labels": {
@@ -77,63 +77,63 @@
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 965,
-    "managed_id": 965,
-    "category_code": 965,
-    "category_name": 965,
-    "url": 965,
-    "name": 965,
-    "name_kana": 878,
-    "quantity": 934,
-    "types": 965,
-    "country": 963,
+    "ledger_id": 968,
+    "managed_id": 968,
+    "category_code": 968,
+    "category_name": 968,
+    "url": 968,
+    "name": 968,
+    "name_kana": 880,
+    "quantity": 937,
+    "types": 968,
+    "country": 966,
     "author": 242,
-    "period": 965,
-    "year_text": 207,
-    "western_year": 201,
+    "period": 968,
+    "year_text": 208,
+    "western_year": 202,
     "structure": 236,
     "inscriptions": 94,
     "dimensions": 256,
     "notes": 46,
-    "annotation": 221,
-    "designation_kind": 965,
-    "designation_number": 965,
-    "branch_number": 938,
-    "national_treasure_class": 965,
+    "annotation": 223,
+    "designation_kind": 968,
+    "designation_number": 968,
+    "branch_number": 941,
+    "national_treasure_class": 968,
     "designated_date": 497,
-    "national_treasure_date": 965,
+    "national_treasure_date": 968,
     "added_date": 18,
     "prefecture": 965,
     "address": 392,
     "latitude": 391,
     "longitude": 391,
     "storage_facility": 380,
-    "owner": 923,
+    "owner": 924,
     "custodian": 48,
-    "description": 960,
+    "description": 963,
     "detailed_description": 33,
     "annexes": 136,
     "itemization": 57,
-    "has_attachment": 965,
-    "has_itemization": 965,
-    "has_photo": 965
+    "has_attachment": 968,
+    "has_itemization": 968,
+    "has_photo": 968
   },
   "facets": {
     "types": {
       "工芸品": 269,
-      "書跡・典籍": 245,
-      "絵画": 177,
+      "書跡・典籍": 247,
+      "絵画": 178,
       "彫刻": 150,
       "古文書": 65,
       "考古資料": 56,
       "歴史資料": 3
     },
     "period": {
-      "平安": 318,
-      "鎌倉": 251,
+      "平安": 319,
+      "鎌倉": 252,
       "奈良": 93,
       "南宋": 52,
-      "唐": 40,
+      "唐": 41,
       "飛鳥": 26,
       "南北朝": 24,
       "江戸": 24,
@@ -230,10 +230,10 @@
       "鹿児島県": 1
     },
     "designation_kind": {
-      "指定": 965
+      "指定": 968
     },
     "national_treasure_class": {
-      "国宝": 965
+      "国宝": 968
     }
   },
   "files": [
@@ -488,6 +488,12 @@
       "area_code": "47",
       "area_name": "沖縄県",
       "records": 1
+    },
+    {
+      "path": "data/99_unspecified.jsonl",
+      "area_code": "99",
+      "area_name": "地域を定めない",
+      "records": 3
     }
   ]
 }
